@@ -1,0 +1,28 @@
+{
+  "name": "@purple_creativity/nodeblox",
+  "version": "1.0.0",
+  "description": "A promise based wrapper for the Roblox API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PurpleCreativity/NodeBlox.git"
+  },
+  "keywords": [
+    "roblox"
+  ],
+  "author": "PurpleCreativity",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PurpleCreativity/NodeBlox/issues"
+  },
+  "homepage": "https://github.com/PurpleCreativity/NodeBlox#readme",
+  "devDependencies": {
+    "@biomejs/biome": "^1.9.4",
+    "jest": "^29.7.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  }
+}
